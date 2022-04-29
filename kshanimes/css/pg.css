@@ -1,0 +1,49 @@
+/* font-family: 'Acme', sans-serif;
+font-family: 'Pacifico', cursive */
+
+.navbar {
+  background: #2E0F23;
+  padding: 0;
+  margin: 0;
+  margin-top: 40px;
+  width: 0 auto;
+  font-family: 'Pacifico', cursive;
+  opacity: 0.9;
+  position: relative;
+}
+
+#navegacao {
+  position: absolute;
+  top: 0; left: 0; right: 0;
+
+}
+
+.barra {
+  position: relative;
+  margin-top: 2%;
+  background-color: #2E0F23; 
+  font-family: 'Pacifico', cursive;
+}
+
+#imgBanner {
+	height: 400px;
+}
+#letra{
+  color: #94ccdb;
+}
+
+.logo{
+  opacity: 100;
+}
+
+.post{
+  background: #2E0F23;
+  width: 90; 
+  height: 80;
+  border-color: #94ccdb;
+}
+
+.barra2{
+  background: #2E0F23;
+  text-align: center;
+}
