@@ -1,0 +1,71 @@
+body{
+    background-color: #8585ef;
+}
+
+::-webkit-scrollbar{
+    width: 0.3rem;
+    background-color: rgba(141, 169, 220, 0.849);
+}
+
+::-webkit-scrollbar-thumb{
+    width: 0.3rem;
+    background-color: rgba(102, 71, 242, 0.849);  
+}
+
+#imagem-topo{
+    height: 6.5rem;
+}
+
+#banner-topo{
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    height: 8rem;
+    width: 100%;
+}
+
+.navbar{
+    position: relative;
+    font-family: 'Permanent Marker', cursive;
+    height: 8rem;
+    background-color: rgba(12, 4, 14, 0.463);
+    color: cornsilk;
+    font-size: x-large;
+}
+
+.nav{
+    background-color: rgba(0, 0, 0, 0.732);
+    font-family: 'Permanent Marker', cursive;
+    font-size: x-large;
+}
+
+#L{
+    font-size: 40px;
+    color: rgb(174, 164, 255);
+    font-family: 'Permanent Marker', cursive;;
+}
+
+#logo_letra{
+    color: rgb(125, 185, 241);
+    font-family: 'Permanent Marker', cursive;
+}
+
+.carousel{
+    height: 29rem;
+    display: flex;
+    width: auto;
+}
+
+#imgBanner{
+    height: 29rem;
+    display: flex;
+    width: auto;
+}
+
+#bt{
+    background-color: rgba(0, 0, 0, 0.374);
+    width: 2rem;
+    height: 0.5rem;
+    border-radius: 1rem 1rem;
+}
+
